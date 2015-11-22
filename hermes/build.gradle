@@ -32,12 +32,8 @@ dependencies {
     compile 'com.android.support:cardview-v7:23+'
     compile 'com.melnykov:floatingactionbutton:1.3.0'
     compile 'com.android.support:recyclerview-v7:23+'
-    compile 'com.google.android.gms:play-services:7.5.0+'
-    compile 'com.anjlab.android.iab.v3:library:1.0.26'
     compile 'com.github.paolorotolo:expandableheightlistview:1.0.0'
-    compile 'com.facebook.android:facebook-android-sdk:4.1.0'
     compile 'com.github.paolorotolo:appintro:1.0.0'
     compile 'com.github.paolorotolo:gitty_reporter:1.1.1'
     androidTestCompile 'com.jayway.android.robotium:robotium-solo:3.5.1'
-    compile files('libs/FacebookAdapter.jar')
 }
